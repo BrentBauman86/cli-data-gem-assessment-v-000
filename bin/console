@@ -1,7 +1,0 @@
-#!/usr/bin/env ruby
-
-require "bundler/setup"
-require "on_tap"
-
-require "irb"
-IRB.start
