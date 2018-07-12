@@ -1,7 +1,0 @@
-#!/usr/bin/env ruby
-
-require "./lib/yummy_brews"
-
-YummyBrews::CLI.new.call
-
-# h
